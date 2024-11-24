@@ -39,28 +39,28 @@ upload
 
 ## Screenshot
 
-![](E:\DESKTOP\Flask_manager\代码\IMAGE\1.PNG)
+![](IMAGE\1.PNG)
 
-![2](E:\DESKTOP\Flask_manager\代码\IMAGE\2.PNG)
+![2](IMAGE\2.PNG)
 
-![3](E:\DESKTOP\Flask_manager\代码\IMAGE\3.PNG)
+![3](IMAGE\3.PNG)
 
-![4](E:\DESKTOP\Flask_manager\代码\IMAGE\4.PNG)
+![4](IMAGE\4.PNG)
 
-![5](E:\DESKTOP\Flask_manager\代码\IMAGE\5.PNG)
+![5](IMAGE\5.PNG)
 
-![6](E:\DESKTOP\Flask_manager\代码\IMAGE\6.PNG)
+![6](IMAGE\6.PNG)
 
-![7](E:\DESKTOP\Flask_manager\代码\IMAGE\7.PNG)
+![7](IMAGE\7.PNG)
 
-![8](E:\DESKTOP\Flask_manager\代码\IMAGE\8.PNG)
+![8](IMAGE\8.PNG)
 
-![9](E:\DESKTOP\Flask_manager\代码\IMAGE\9.PNG)
+![9](IMAGE\9.PNG)
 
-![10](E:\DESKTOP\Flask_manager\代码\IMAGE\10.PNG)
+![10](IMAGE\10.PNG)
 
-![11](E:\DESKTOP\Flask_manager\代码\IMAGE\11.PNG)
+![11](IMAGE\11.PNG)
 
-![12](E:\DESKTOP\Flask_manager\代码\IMAGE\12.PNG)
+![12](IMAGE\12.PNG)
 
-![13](E:\DESKTOP\Flask_manager\代码\IMAGE\13.PNG)
+![13](IMAGE\13.PNG)
